@@ -17,7 +17,7 @@ export default {
             [
               { attr: 'owner.login', values: ['Alexeykhr', 'GPortfolio', 'uSchedule', 'uRepairPC'] },
               { attr: 'name', values: ['awesome-vue', 'merge-conflict', 'github-pages-with-jekyll', 'markdown-portfolio'], revert: true },
-              { attr: 'fork', values: false }
+              { attr: 'fork', values: false },
             ],
           ],
         },
