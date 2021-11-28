@@ -27,8 +27,7 @@ export default {
   data: {
     position: 'PHP Developer',
     links: [
-      { name: 'github', url: 'https://github.com/alexeykhr' },
-      { name: 'linkedin', url: 'https://linkedin.com/in/alexeykhr' },
+      { name: 'github', url: 'https://github.com/alexeykhr' }
     ],
   },
   templates: {
