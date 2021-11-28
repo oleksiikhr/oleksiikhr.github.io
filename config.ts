@@ -15,7 +15,7 @@ export default {
         filter: {
           repositories: [
             [
-              { attr: 'owner.login', values: ['Alexeykhr'] },
+              { attr: 'owner.login', values: ['Alexeykhr', 'GPortfolio'] },
               { attr: 'name', values: ['awesome-vue', 'merge-conflict', 'github-pages-with-jekyll', 'markdown-portfolio'], revert: true },
               { attr: 'fork', values: false },
             ],
