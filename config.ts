@@ -4,7 +4,7 @@ export default {
   services: {
     github: {
       configuration: {
-        nickname: 'Alexeykhr',
+        nickname: 'o-khrushch',
         sort: {
           repositories: [
             { attr: 'created_at', sortByDesc: true },
@@ -15,7 +15,7 @@ export default {
         filter: {
           repositories: [
             [
-              { attr: 'owner.login', values: ['Alexeykhr', 'GPortfolio'] },
+              { attr: 'owner.login', values: ['o-khrushch', 'GPortfolio'] },
               { attr: 'name', values: ['awesome-vue', 'merge-conflict', 'github-pages-with-jekyll', 'markdown-portfolio'], revert: true },
               { attr: 'fork', values: false },
             ],
@@ -27,7 +27,7 @@ export default {
   data: {
     position: 'PHP Developer',
     links: [
-      { name: 'github', url: 'https://github.com/alexeykhr' }
+      { name: 'github', url: 'https://github.com/o-khrushch' }
     ],
   },
   templates: {
